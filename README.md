@@ -64,5 +64,4 @@ flutter run
 
 ---
 
-## 🎓 Réalisé pour le TP mobile (S4) - Génie Logiciel  
 > Auteur : Labrini Ouiam  
